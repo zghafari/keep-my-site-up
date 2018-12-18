@@ -1,8 +1,8 @@
-# keep-my-site-up
+# Reduce load times by curling your servers!
 Simple bash and batch script to keep shared hosting servers like GoDaddy from going to sleep
 
 ## Introduction
-GoDaddy servers tend to go to sleep after more than 5 minutes. These scripts curl the server and make sure they stay active reducing load times from 10 seconds to .5 - 1 second.
+GoDaddy servers tend to go to sleep after more than 5 minutes. These scripts curl the server every 4 minutes so they stay active reducing load times from 10 seconds to .5 - 1 second.
 
 ## Usage
 Change the variables within the scripts and run them!
