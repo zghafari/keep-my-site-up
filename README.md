@@ -7,9 +7,9 @@ GoDaddy servers tend to go to sleep after more than 5 minutes. These scripts cur
 ## Usage
 Change the variables within the scripts and run them!
 
-### Walk-through
+## Walk-through
 http://aws-cloud.guru/making-godaddy-or-any-other-hosting-initial-load-faster/
 
-### Author
+## Author
 
   [Zubin Ghafari](https://www.linkedin.com/in/zghafari/)
